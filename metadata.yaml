@@ -1,0 +1,68 @@
+_repo: The-Quiet-Life-Certain-Verses-by-Various-Hands_62187
+_version: 0.0.1
+contributor:
+  contributors:
+  - agent_name: Dobson, Austin
+    alias: Dobson, Henry Austin
+    birthdate: 1840
+    deathdate: 1921
+    gutenberg_agent_id: '2155'
+    url: http://www.gutenberg.org/2009/agents/2155
+    wikipedia: https://en.wikipedia.org/wiki/Henry_Austin_Dobson
+  - agent_name: Praed, Winthrop Mackworth
+    gutenberg_agent_id: '51814'
+    url: http://www.gutenberg.org/2009/agents/51814
+  - agent_name: Pope, Alexander
+    alias: Barnivelt, Esdras
+    birthdate: 1688
+    deathdate: 1744
+    gutenberg_agent_id: '907'
+    url: http://www.gutenberg.org/2009/agents/907
+    wikipedia: http://en.wikipedia.org/wiki/Alexander_Pope
+  - agent_name: Cowley, Abraham
+    aliases:
+    - Cowly, Abraham
+    - Cole, Francis
+    - Cowley, A. (Abraham)
+    birthdate: 1618
+    deathdate: 1667
+    gutenberg_agent_id: '1226'
+    url: http://www.gutenberg.org/2009/agents/1226
+    wikipedia: http://en.wikipedia.org/wiki/Abraham_Cowley
+  - agent_name: Randolph, Thomas Jefferson
+    birthdate: 1792
+    deathdate: 1875
+    gutenberg_agent_id: '6927'
+    url: http://www.gutenberg.org/2009/agents/6927
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Jefferson_Randolph
+  - agent_name: Marvell, Andrew
+    birthdate: 1621
+    deathdate: 1678
+    gutenberg_agent_id: '31899'
+    url: http://www.gutenberg.org/2009/agents/31899
+    wikipedia: http://en.wikipedia.org/wiki/Andrew_Marvell
+  illustrators:
+  - agent_name: Abbey, Edwin A.
+    gutenberg_agent_id: '51815'
+    url: http://www.gutenberg.org/2009/agents/51815
+  - agent_name: Parsons, Alfred
+    birthdate: 1847
+    deathdate: 1920
+    gutenberg_agent_id: '51796'
+    url: http://www.gutenberg.org/2009/agents/51796
+    wikipedia: https://en.wikipedia.org/wiki/Alfred_Parsons_(artist)
+description: ''
+gutenberg_issued: '2020-05-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62187'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Quiet Life
+
+  Certain Verses by Various Hands'
+url: http://www.gutenberg.org/ebooks/62187
